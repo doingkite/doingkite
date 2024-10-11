@@ -1,9 +1,6 @@
-## Hi there 👋
+## ᕕ( ᐛ )ᕗ 👋
 
-<!--
-**doingkite/doingkite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="left"> 🌱 This is DY Kim, I’m currently learning ...</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
